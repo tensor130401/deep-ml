@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 29 problems · 0 labs · 9 math
+**39** solved · 30 problems · 0 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-11-14 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-12 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-11-14 | [solution](problems/0121-vector-element-wise-sum) |
+| [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-11-17 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-11-14 | [solution](problems/0079-binomial-distribution-probability) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-14 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-11-14 | [solution](problems/0007-matrix-transformation) |
